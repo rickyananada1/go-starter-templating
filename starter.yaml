@@ -1,0 +1,3 @@
+version: "1"
+package: golang-starter-templating
+database: postgresql
