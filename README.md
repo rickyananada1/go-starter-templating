@@ -125,5 +125,5 @@ go run cmd/main.go
 ```
 ## Authors
 
-- [@rickyananada1](https://github.com/fanchann)
+- [@rickyananada1](https://github.com/rickyananada1)
 
